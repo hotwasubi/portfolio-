@@ -4,6 +4,7 @@
     background-color: lightblue;
  }  
 
+ 
  .navbar {
     background-color: #ffffff;
     border-bottom: 1px solid #cccccc;
@@ -101,6 +102,7 @@ form label {
 
     display: block;
     padding-bottom: 7px;
+    padding-left: 7px;
 }
 
 input 
