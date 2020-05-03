@@ -6,9 +6,11 @@
     background-image: linear-gradient(to left, #455a64, #263238);
 }
 #logo{
-    font-family: 'Press Start 2P', ;
+    font-family: 'Press Start 2P' ;
 }
-
+#message{
+    font-family: 'Press Start 2P';
+}
 
 #main-content{
     position: relative;
